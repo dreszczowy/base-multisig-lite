@@ -2,4 +2,10 @@
 
 Lightweight multisig experiments and notes for Base chain.
 
-Inspired by Safe but simpler for learning purposes.
+## Included
+- Full MultiSigWallet.sol (submit, confirm, execute)
+- Deploy script and Hardhat config
+- Test skeleton
+- Notes: security, testing, owners, execution, Foundry, roadmap
+
+Inspired by Safe but simpler for learning. For production, prefer Safe.
